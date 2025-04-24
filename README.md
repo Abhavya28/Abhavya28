@@ -16,5 +16,3 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Abhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhavya28&show_icons=true&theme=radical)
