@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 - 🔭 Working on exciting **Freelance Projects**
-- 🎥 Teaching code & tech on **Instagram & YouTube**
 - 📫 Reach me at: [your email or portfolio]
 
 ---
