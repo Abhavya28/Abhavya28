@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhavya</h1>
+<h3 align="center">Web Developer | Freelancer | Content Creator</h3>
 
-<!--
-**Abhavya28/Abhavya28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Full Stack Development**
+- 🔭 Working on exciting **Freelance Projects**
+- 🎥 Teaching code & tech on **Instagram & YouTube**
+- 📫 Reach me at: [your email or portfolio]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
+---
+
+### 📊 GitHub Stats:
+![Abhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhavya28&show_icons=true&theme=radical)
