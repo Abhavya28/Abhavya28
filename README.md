@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 - 🔭 Working on exciting **Freelance Projects**
-- 📫 Reach me at: [your email or portfolio]
+- 📫 Reach me at: abhavya2801@gmail.com
 
 ---
 
