@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhavya</h1>
 <h3 align="center">Web Developer | Freelancer | Content Creator</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🎓 I'm a self-taught web developer with a passion for building clean, functional websites.
+- 💻 Currently exploring **Full-Stack Web Development** (MERN soon 👀).
 - 🔭 Working on exciting **Freelance Projects**
-- 📫 Reach me at: abhavya2801@gmail.com
+- 🚀 Dreaming big and working towards financial freedom as a digital entrepreneur.
+
 
 ---
 
