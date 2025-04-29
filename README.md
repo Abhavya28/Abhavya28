@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhavya</h1>
-<h3 align="center">Web Developer | Freelancer | Content Creator</h3>
+<h3 align="center">Web Developer | Freelancer </h3>
 
 - 🎓 I'm a self-taught web developer with a passion for building clean, functional websites.
 - 💻 Currently exploring **Full-Stack Web Development** (MERN soon 👀).
