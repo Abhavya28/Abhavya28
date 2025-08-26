@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhavya</h1>
 <h3 align="center">Web Developer | Freelancer </h3>
 
-- 🎓 Self-taught web developer turning ideas into clean, functional websites.  
+- 🎓 Self-taught Web Developer on a mission to make the internet look cooler, one website at a time.
 - 💻 Diving deep into **Full-Stack Web Development** and modern web tech.  
-- 🔭 Building and delivering exciting **freelance projects** for real clients.  
+- 🔭 Building and delivering exciting **Freelance Projects** for real clients.  
 - 🚀 Passionate about creating impactful digital experiences and growing as a developer.
 
 ---
 
 ### 💻 Tech Stack:
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
