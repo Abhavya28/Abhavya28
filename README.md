@@ -26,4 +26,4 @@
 ### 📫 Contact Me
 
 - **Email:** abhavya2801@gmail.com  
-- **LinkedIn:** [YourLinkedIn](https://www.linkedin.com/in/abhavyagupta/) 
+- **LinkedIn:** [Abhavya Gupta](https://www.linkedin.com/in/abhavyagupta/) 
