@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhavya</h1>
+<h1 align="center">Hi 👋, I'm Abhavya Gupta</h1>
 <h3 align="center">Web Developer | Freelancer </h3>
 
 - 🎓 Self-taught Web Developer on a mission to make the internet look cooler, one website at a time.
