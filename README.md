@@ -4,7 +4,7 @@
 - 🎓 Self-taught Web Developer on a mission to make the internet look cooler, one website at a time.
 - 💻 Diving deep into **Full-Stack Web Development** and modern web tech.  
 - 🔭 Building and delivering exciting **Freelance Projects** for real clients.  
-- 🚀 Passionate about creating impactful digital experiences and growing as a developer.
+- 🚀 Passionate about creating impactful digital experiences and growing as a web developer.
 
 ---
 
