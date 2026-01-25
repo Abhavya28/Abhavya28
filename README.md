@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abhavya Gupta</h1>
+ <h1 align="center">Hi 👋, I'm Abhavya Gupta</h1>
 <h3 align="center">Web Developer | Freelancer </h3>
 
 - 🎓 Self-taught Web Developer on a mission to make the internet look cooler, one website at a time.
 - 💻 Diving deep into **Full-Stack Web Development** and modern web tech.  
-- 🔭 Building and delivering exciting **Freelance Projects** for real clients.  
+- 🔭 Building and delivering exciting and meaningful **Freelance Projects** for real clients.  
 - 🚀 Passionate about creating impactful digital experiences and growing as a web developer.
 
 ---
